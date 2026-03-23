@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="543fea8c-f7ba-407d-85ec-bac8b164d200" name="Changes" comment="Enhetstest för get_primes">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/prime_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/prime_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/performance/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/performance/test_prime_perf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="543fea8c-f7ba-407d-85ec-bac8b164d200" name="Changes" comment="Prestandatest, 3 versioner" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,13 +146,21 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1774275482484</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Prestandatest, 3 versioner">
+      <option name="closed" value="true" />
+      <created>1774278072618</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1774278072618</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial files" />
     <MESSAGE value="Enhetstest för is_prime" />
     <MESSAGE value="Enhetstest för get_primes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enhetstest för get_primes" />
+    <MESSAGE value="Prestandatest, 3 versioner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prestandatest, 3 versioner" />
   </component>
 </project>

@@ -8,11 +8,14 @@ pytest
 pytest-benchmark
 ```
 
-Markers: TODO skriv vilka markers som används i pytest.ini
+Markers: unit, performance
 
 För att starta finns flera alternativ. Lägg till `python -m` först på raden om det inte går att köra pytest direkt.
 
 ```commandline
-pytest -v -m "unit and not slow"
+pytest -v -m "unit"
 pytest -v -m "performance"
 ```
+
+## prime.py
+Tre versioner av en funktion som kontrollerar om ett tal är ett primtal. Kör prestandatestet och se vilken som är snabbast!
