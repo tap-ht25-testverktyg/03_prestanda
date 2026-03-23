@@ -1,0 +1,17 @@
+# Allmänt
+__pycache__
+.venv
+
+# .idea
+# Det är vanligt att ignorera mappen .idea, som innehåller editorns
+# konfiguration. Vi behåller den för att ni som använder PyCharm lättare ska
+# kunna köra projektet.
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Filer för thumbnails, alltså små bilder som visas i Explorer/Finder
+.DS_Store
+Thumbs.db
