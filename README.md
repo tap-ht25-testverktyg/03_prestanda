@@ -24,6 +24,9 @@ Resultat vid tidigare körning
 
 | Algoritm                          | Medeltid (ms) | Procent |
 |-----------------------------------|---------------|---------|
-| Intuitiv                          | 1000          | 100%    |
+| Intuitiv is_prime                 | 1000          | 100%    |
 | Förbättrad (testa inte jämna tal) | 500           | 50%     |
 | Roten ur n                        | 5             | 99.5%   |
+|                                   |               |         |
+| Linjärsökning                     | 460           | 100%    |
+| Binärsökning                      | 0.002         | <1%     |
