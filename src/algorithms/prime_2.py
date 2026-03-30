@@ -5,6 +5,8 @@ def is_prime_2(n):
         return False
     if n == 2:
         return True
+    if n % 2 == 0:
+        return False
 
     for i in range(3, n, 2):
         if n % i == 0:
